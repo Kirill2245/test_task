@@ -50,7 +50,6 @@ function App() {
     };
     
     params.push(newParam);
-    // В реальном приложении нужно обновить состояние
     console.log('Новый параметр добавлен:', newParam);
   };
 
